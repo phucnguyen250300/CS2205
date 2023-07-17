@@ -1,5 +1,5 @@
 # CS2205
-Họ và Tên: Nguyễn Tấn Phúc
-MSHV: 220101035
-Lớp: CS2205.APR2023
-Link YouTube video
+1. Họ và Tên: Nguyễn Tấn Phúc
+2. MSHV: 220101035
+3. Lớp: CS2205.APR2023
+4. Link YouTube video
